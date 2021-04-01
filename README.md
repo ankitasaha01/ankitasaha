@@ -1,11 +1,5 @@
 # ankitasaha
 <h1 align="center">Hi 👋, I'm Ankita Saha</h1>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitasaha01&label=Profile%20views&color=0e75b6&style=flat" alt="ankitasaha01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitasaha01" alt="ankitasaha01" /></a> </p>
-
 - 💻 I have done two projects. *1. Online Grievance System, 2. Tourism management system*
 
 - 💬 Ask me about *How can I help you 😊.*
